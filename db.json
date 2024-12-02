@@ -1,0 +1,97 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "username": "demo",
+      "password": "demo123"
+    }
+  ],
+  "expenses": [
+    {
+      "id": "1",
+      "title": "Groceries",
+      "amount": 250,
+      "category": "Food",
+      "date": "2024-03-01"
+    },
+    {
+      "id": "2",
+      "title": "Electricity Bill",
+      "amount": 3000,
+      "category": "Utilities",
+      "date": "2024-03-02"
+    },
+    {
+      "id": "3",
+      "title": "Movie Night",
+      "amount": 1000,
+      "category": "Entertainment",
+      "date": "2024-03-03"
+    },
+    {
+      "id": "4",
+      "title": "Fuel",
+      "amount": 2000,
+      "category": "Transportation",
+      "date": "2024-03-04"
+    },
+    {
+      "id": "6",
+      "title": "Restaurant",
+      "amount": 1800,
+      "category": "Food",
+      "date": "2024-03-06"
+    },
+    {
+      "id": "7",
+      "title": "Shopping",
+      "amount": 4500,
+      "category": "Shopping",
+      "date": "2024-03-07"
+    },
+    {
+      "id": "8",
+      "title": "Mobile Recharge",
+      "amount": 500,
+      "category": "Utilities",
+      "date": "2024-03-08"
+    },
+    {
+      "id": "9",
+      "title": "Medical Checkup",
+      "amount": 3500,
+      "category": "Healthcare",
+      "date": "2024-03-09"
+    },
+    {
+      "id": "10",
+      "title": "Books",
+      "amount": 1200,
+      "category": "Education",
+      "date": "2024-03-10"
+    },
+    {
+      "id": "4f5c",
+      "title": "biscuit",
+      "amount": 100,
+      "category": "Food",
+      "date": "2024-12-02"
+    },
+    {
+      "id": "c4f1",
+      "title": "fuel",
+      "amount": 2000,
+      "category": "Transportation",
+      "date": "2024-12-02"
+    }
+  ],
+  "budgets": {
+    "Food": 9000,
+    "Utilities": 8000,
+    "Entertainment": 5000,
+    "Transportation": 6000,
+    "Shopping": 7000,
+    "Healthcare": 5000,
+    "Education": 3000
+  }
+}
